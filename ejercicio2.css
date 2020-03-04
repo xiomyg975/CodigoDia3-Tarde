@@ -1,0 +1,21 @@
+p:nth-child(even){
+    font-size: 40px ;
+    color:orange;
+}
+ul li:nth-child(even){
+    font-size : 40px ;
+    color:orange; 
+}
+p:nth-child(odd){
+   
+    font-weight :bold;
+}
+ul li:nth-child(odd){
+    font-weight :bold; 
+}
+p:last-child{
+    letter-spacing :20px;
+}
+ul li:last-child{
+    letter-spacing :20px;
+} 

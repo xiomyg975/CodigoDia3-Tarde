@@ -1,0 +1,25 @@
+@font-face{
+    font-family : "mifuente";
+    src: url('KuchenHollow.ttf');
+}
+.parrafo1{
+    width : 50% ;
+    color: rgb(255, 255, 255);
+    background-color: red;
+    border : 1px  solid blue; 
+    
+}
+
+.parrafo2{
+    word-spacing :50px;
+    text-align :center;
+    border : 1px  solid blue; 
+}
+.parrafo3{
+    font-family: "mifuente" ;
+    text-align : right;
+    height :50px;
+    border : 1px  solid blue; 
+    overflow-y:scroll;
+
+}

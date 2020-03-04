@@ -1,0 +1,72 @@
+@font-face{
+    font-family : "mifuente";
+    src: url('Kuchen.ttf');
+}
+code{
+    color :purple;
+
+}
+.c-font-family{
+    font-family : "mifuente";
+    font-size : 30px ;
+}
+.c-font-size{
+    font-size : 150%;
+    color:blue ;
+}
+.c-font-weight{
+    font-weight :bold;
+}
+.c-font-style{
+    font-style:italic;
+}
+.c-font{
+    font : oblique bold 20 px 'Arial';
+}
+.c-text-align{
+    text-align :center;
+}
+.c-text-align-last{
+    text-align-last : right;
+}
+.c-letter-spacing{
+    text-letter-spacing:20px;
+}
+.c-word.spacing{
+    word-spacing :20px;
+}
+.c-line-height{
+    line-height : 10px;
+}
+.c-vertical-align{
+    vertical-align:text-top;
+}
+.c-rgb{
+    color: rgb(221,234,34);
+}
+.c-rgba{
+    color:rgba(100,180,50,0.2);
+}
+.c-bordepunteado{
+    /* dashed -> es punteado pero lineal
+    dotted -y> punteado pero con puntos de separacion
+    soolid -> color solido
+    none ->sin linea */
+    border :1px dashed #ff00ff ;
+}
+.c-width{
+    width : 50% ;
+}
+.c-height{
+    height :20px;
+}
+.c-overflow{
+    overflow:scroll;
+}
+.c-overflow-x{
+    overflow-x:hidden;
+}
+.c-overflow-y{
+    overflow-y:hidden;
+    
+}
